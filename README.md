@@ -4,7 +4,7 @@ Working TikTok Username Auto-Claimer/Sniper/Swapper which will autoclaim usernam
 - Python 3.6 or above is required.
 - Windows OS Only(can be easily changed).
 - Check your Google Chrome version. Download chromedriver.exe with the matching version [here](https://chromedriver.chromium.org/downloads) to autoclaimer.py's file directory.
-- pip/3 install requirements.txt
+- pip/3 install -r requirements.txt
 - run autoclaimer.py with Python 3.6
 - Enter Username you want to claim
 - Login into your TikTok Account
